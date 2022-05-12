@@ -1,1 +1,4 @@
-# myGists
+- [How to host a telegram bot?](https://gist.github.com/narayann7/9a2d46de1696375b0238a76d70b08712)
+- [Common handy functions](https://gist.github.com/narayann7/72a3862f82b4bacebd17cf43e4a80840)
+- [Git cheat sheet](https://gist.github.com/narayann7/1c12a39723bea8e6283d36a2a9d5ae8a)
+- [STL cheat sheet](https://gist.github.com/narayann7/804f30b9a0d07b38c8b02a665489d434)
