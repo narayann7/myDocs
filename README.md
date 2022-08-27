@@ -1,8 +1,6 @@
 - [How to host a telegram bot?](https://gist.github.com/narayann7/9a2d46de1696375b0238a76d70b08712)
 - [Common handy functions](https://gist.github.com/narayann7/72a3862f82b4bacebd17cf43e4a80840)
-- Git cheat sheet 
-   - [Gists](https://gist.github.com/narayann7/1c12a39723bea8e6283d36a2a9d5ae8a) 
-   - [Notion](https://narayann7.notion.site/Git-cheat-sheet-a5aa0f486c1148d1b7b799e97de41c1c) 
-   - [pdf](https://drive.google.com/file/d/10SJ16zD-NrPJWpkFtPSGSS7PsRQa4JnR/view?usp=sharing)
-- [STL cheat sheet](https://gist.github.com/narayann7/804f30b9a0d07b38c8b02a665489d434)
+- Git cheat sheet • [Gists](https://gist.github.com/narayann7/1c12a39723bea8e6283d36a2a9d5ae8a) • [Notion](https://narayann7.notion.site/Git-cheat-sheet-a5aa0f486c1148d1b7b799e97de41c1c) • [pdf](https://drive.google.com/file/d/10SJ16zD-NrPJWpkFtPSGSS7PsRQa4JnR/view?usp=sharing)
+- STL cheat sheet • [Notion](https://narayann7.notion.site/STL-cheat-sheet-2e6d9530511f446180049ed0681e3415)
 - [Go Lang quick guide](https://narayann7.notion.site/Go-b152b4e2c6fc4348b529f68c4664cd61)
+- [Useful SoftWare's](https://narayan7.notion.site/Software-s-4586b28737a1404e84ff11665478032d)
